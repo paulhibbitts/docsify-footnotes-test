@@ -105,6 +105,7 @@ Implementations MUST be built on the design principle of Progressive Enhancement
 In practice, this means that the presentation of and the content itself must be strictly separated, such that the availability of the content is not limited by how the presentation of it is built. This ties in with the [Open Formats using Open Standards](#open-formats-using-open-standards) feature: Plain text documents are maximally available to all users and clients, and [HTML](#abbr-html) enhances the presentation of these by structuring them within a Layout. [CSS](#abbr-css) further styles it to enhance how readable it is, and finally [JS](#abbr-js) adds enhanced functionality such as interactivity.[^progressive-enhancement]
 
 [^progressive-enhancement]: For a fuller discussion, see "[Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/)", "[Progressive Enhancement with CSS](https://alistapart.com/article/progressiveenhancementwithcss/)", and "[Progressive Enhancement with JavaScript](https://alistapart.com/article/progressiveenhancementwithjavascript/)" on https://alistapart.com/ and "[The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/)" on https://www.nngroup.com/  
+
 [^graceful-degradation]: In many ways, Progressive Enhancement is a reversal of the approach of Graceful Degradation, see https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement
 
 ### <a name="technical-requirements"></a>Technical Requirements
